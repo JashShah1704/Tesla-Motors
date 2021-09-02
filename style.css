@@ -1,0 +1,40 @@
+body{
+	font-family: sans-serif;
+}
+h3{
+	text-align: center;
+}
+img{
+	height: 1200px;
+	width: 100%;
+}
+#logo{
+	float: left;
+	width: 10%;
+	height: 10%;
+	position: fixed;
+	margin-top: 50px;
+}
+
+#header-1{
+	position: absolute;
+	left: 40%;
+	top: 20%;
+
+}
+#header-3{
+	position: absolute;
+	left: 40%;
+	top: 200%;
+	color: white;
+}
+
+h1{
+	text-align: center;
+}
+#header-2{
+	position: absolute;
+	left: 40%;
+	top: 110%;
+	color: white;
+}
